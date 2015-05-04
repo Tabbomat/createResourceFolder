@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ShopFinder",
+  "name": "Create Resource Folder",
+  "description": "creates resourcepacks folder on startup",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ctbotfreak"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
